@@ -15,6 +15,6 @@ With 10 tellers, the wait time at the end is 1 minute, and the average wait time
 
 NOTE FOR USAGE:
 
-To use the program, use the .exe file included in the folder: ..\ConsoleApplication4\Debug\ConsoleApplication4.exe(or Project.exe)
+To use the program, use the .exe file included in the folder: ..\Debug\ConsoleApplication4.exe(or Project.exe)
 
 Also included are the class and sequence diagrams.
